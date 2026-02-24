@@ -31,7 +31,7 @@ I’m passionate about web security, IDOR vulnerabilities, recon, and building p
 
 ## 📫 Connect with Me
 - Email: [navyayadav918@gmail.com](mailto:navyayadav918@gmail.com)  
-- LinkedIn: [T. Navya Yadav](https://www.linkedin.com/in/navya-yadav)  
+- LinkedIn: [T. Navya Yadav](https://www.linkedin.com/in/navya-yadav-64197130a/)  
 
 ---
 
