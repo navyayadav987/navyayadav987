@@ -1,5 +1,5 @@
 # Hi there, I'm T. Navya Yadav 👋
-Aspiring **Web Application Penetration Tester** | **Bug Bounty Learner** | DCJSP Certified  
+Aspiring **Web Application Penetration Tester** | **Bug Bounty Hunter** | **DCJSP Certified**
 
 I’m passionate about web security, IDOR vulnerabilities, recon, and building practical security tools with **Python**.  
 
